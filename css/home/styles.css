@@ -11,12 +11,22 @@ body {
 header {
     height: auto;
     background: #1b61a3;
-    text-align: center;    
+    text-align: center;   
+    color: #ececec; 
 }
 
 section {
     background: #FFFFFF;
     padding: 5rem auto;
-    text-align: center;
+    text-align: center;    
+}
+
+section h2 {
+    text-transform: uppercase;
+}
+
+.btn-secondary {
+    font-size: 1.2rem;
+    font-weight: 500;
 }
 

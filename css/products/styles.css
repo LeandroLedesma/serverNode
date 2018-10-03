@@ -8,6 +8,7 @@ body {
 
 header {
     background: #1b61a3;
+    color: #ececec; 
 }
 
 h1 {
@@ -17,4 +18,22 @@ h1 {
 section {
     background: #FFFFFF;
     text-align: center;
+}
+
+section h2 {
+    text-transform: uppercase;
+}
+
+.titulos {
+    text-align: center;
+}
+
+.btn-secondary {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.t_header {
+    background: #1b61a3;
+    color: #ececec;
 }
