@@ -1,0 +1,20 @@
+html {
+    font-size: 15px;
+}
+
+body {
+    background: #cecece;
+}
+
+
+
+header {
+    height: auto;
+    background: #1b61a3;
+    text-align: center;    
+}
+
+section {
+    background: #FFFFFF;
+    padding: 5rem auto;
+}
